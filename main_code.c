@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "function_1.h"
-#include "function_1.h"
+#include "function_2.h"
 
 int main() {
     FILE *file = fopen("data.txt", "r");
